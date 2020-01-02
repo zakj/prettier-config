@@ -1,0 +1,10 @@
+{
+  "name": "@zakj/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "author": "Zak Johnson <me@zakj.net> (https://zakj.net)",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">= 1.19"
+  }
+}
