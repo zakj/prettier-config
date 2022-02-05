@@ -2,7 +2,7 @@
 
 Installation:
 
-    yarn add --dev @zakj/prettier-config
+    npm add --save-dev @zakj/prettier-config
 
 In `package.json`:
 
