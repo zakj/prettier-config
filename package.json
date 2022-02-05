@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "main": "index.json",
   "author": "Zak Johnson <me@zakj.net> (https://zakj.net)",
-  "license": "MIT",
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ],
   "peerDependencies": {
-    "prettier": ">= 1.19"
+    "prettier": ">= 2"
   }
 }
